@@ -55,8 +55,6 @@ public class Task1StaticalShapes extends Application {
         gc.strokeLine(700, 475, 710, 445);
         gc.strokeOval(560, 340, 50, 50);
         gc.strokeLine(720, 385, 730, 410);
-        int s = 150;
-        int y = 70;
         gc.strokeLine(570, 315, 580, 340);
         gc.strokeLine(600, 315, 590, 340);
         gc.strokeArc(670, 422, 35, 35, 180, 180, ArcType.CHORD);
